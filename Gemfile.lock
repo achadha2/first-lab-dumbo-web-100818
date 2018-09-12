@@ -1,4 +1,4 @@
-GEM
+learnGEM
   remote: https://rubygems.org/
   specs:
     diff-lcs (1.2.5)
